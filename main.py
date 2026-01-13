@@ -84,8 +84,17 @@ RESPOSTAS = {
         "O fodão chegou",
         "Oi papai",
         "Chegou o goza e dorme",
-    ]
+    ],
     # BLENINN
+    505935179928567818: [
+        "Fala engole garota",
+        "Chegou o vacilão",
+        "Cala a boca cabeça de satélite",
+        "Isso que dá me trocar por ela",
+        "Morre Breno",
+        "Cabaçei",
+        "Vacilão",
+    ]
     
 }
 
