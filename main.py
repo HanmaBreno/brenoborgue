@@ -36,6 +36,7 @@ RESPOSTAS = {
         "Já falou de ex hoje? rs",
         "Aparané",
         "Calma amor",
+        "Olá, Davia A. Quem não chora não mama",
     ],
     #lUCAS
     1414038933494567024: [
